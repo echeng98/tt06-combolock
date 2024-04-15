@@ -1,4 +1,4 @@
-# How it works
+# 4-Bit Combination Lock
 Everything is controlled using the CLOCK, RESET, and input pins.
 The first step after starting the simulation is pressing RESET.
 
